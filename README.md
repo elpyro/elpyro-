@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-castellanoseloy%40gmail.com-5b8cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castellanoseloy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20312%20586%206072-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573125866072)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eloy%20Castellanos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloy-castellanos-236514243)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CV%20%2F%20Web-ffb020?style=for-the-badge&logo=github&logoColor=black)](https://github.com/elpyro/curriculum_web)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CV%20%2F%20Web-ffb020?style=for-the-badge&logo=github&logoColor=black)](https://curriculumwebecomerce.netlify.app/)
 
 </div>
 
@@ -19,7 +19,7 @@
 💼 8+ years coding · 6 years in e-commerce  
 🗣️ Native Spanish · English B2  
 📫 [castellanoseloy@gmail.com](mailto:castellanoseloy@gmail.com) · +57 312 586 6072  
-🔗 [Portfolio / CV](https://github.com/elpyro/curriculum_web) · [LinkedIn](https://www.linkedin.com/in/eloy-castellanos-236514243)
+🔗 [Portfolio / CV](https://curriculumwebecomerce.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/eloy-castellanos-236514243)
 
 ---
 
@@ -84,7 +84,7 @@ I'm available for any opportunity, on-site or remote, anywhere. Native Spanish, 
 | Email | [castellanoseloy@gmail.com](mailto:castellanoseloy@gmail.com) |
 | WhatsApp | [+57 312 586 6072](https://wa.me/573125866072) |
 | LinkedIn | [eloy-castellanos-236514243](https://www.linkedin.com/in/eloy-castellanos-236514243) |
-| Portfolio / CV | [github.com/elpyro/curriculum_web](https://github.com/elpyro/curriculum_web) |
+| Portfolio / CV | [curriculumwebecomerce.netlify.app](https://curriculumwebecomerce.netlify.app/) |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb020,100:5b8cff&height=120&section=footer" />
