@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:ffb020&height=200&section=header&text=Eloy%20Castellanos&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20and%20E-commerce%20Specialist&descAlignY=60&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B8CFF&center=true&vCenter=true&width=620&lines=Software+development+and+E-commerce;8%2B+years+coding+%C2%B7+6+in+e-commerce;Remote+%C2%B7+U.S.+hours;Native+Spanish+%C2%B7+English+B2)](https://github.com/elpyro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B8CFF&center=true&vCenter=true&width=620&lines=Software+development+and+E-commerce;8%2B+years+coding+%C2%B7+6+in+e-commerce;Available+for+any+opportunity;Native+Spanish+%C2%B7+English+B2)](https://github.com/elpyro)
 
 [![Email](https://img.shields.io/badge/Email-castellanoseloy%40gmail.com-5b8cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castellanoseloy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20312%20586%206072-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573125866072)
@@ -15,7 +15,7 @@
 
 **Software developer and E-commerce specialist** · software development and online store operations.
 
-📍 Colombia · remote work (U.S. hours)  
+📍 Available for any opportunity  
 💼 8+ years coding · 6 years in e-commerce  
 🗣️ Native Spanish · English B2  
 📫 [castellanoseloy@gmail.com](mailto:castellanoseloy@gmail.com) · +57 312 586 6072  
@@ -27,9 +27,9 @@
 
 I'm a software developer with **8+ years coding** and **6 years in e-commerce**. I build mobile and web apps (Android, iOS, Web) with serverless backends, and I run online stores and marketplaces (Shopify, Amazon, MercadoLibre).
 
-I work 100% remotely on U.S. hours from Colombia. Native Spanish, English B2.
+I'm available for any opportunity, on-site or remote, anywhere. Native Spanish, English B2.
 
-> 🟢 **Available for remote work.**
+> 🟢 **Available for any opportunity.**
 
 ---
 
